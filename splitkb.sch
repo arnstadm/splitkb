@@ -1,0 +1,1212 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L keyboard_parts:D D1
+U 1 1 5EED10E4
+P 4600 1650
+F 0 "D1" H 4472 1600 60  0000 R CNN
+F 1 "D" V 4750 1600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4600 1650 60  0001 C CNN
+F 3 "" H 4600 1650 60  0000 C CNN
+	1    4600 1650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW1
+U 1 1 5EEA7F17
+P 4300 1500
+F 0 "SW1" H 4300 1755 50  0000 C CNN
+F 1 "SW_PUSH" H 4300 1664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4300 1500 60  0001 C CNN
+F 3 "" H 4300 1500 60  0000 C CNN
+	1    4300 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D6
+U 1 1 5EEFBFC7
+P 5600 1650
+F 0 "D6" H 5472 1600 60  0000 R CNN
+F 1 "D" V 5750 1600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 5600 1650 60  0001 C CNN
+F 3 "" H 5600 1650 60  0000 C CNN
+	1    5600 1650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW6
+U 1 1 5EEFBFD1
+P 5300 1500
+F 0 "SW6" H 5300 1755 50  0000 C CNN
+F 1 "SW_PUSH" H 5300 1664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5300 1500 60  0001 C CNN
+F 3 "" H 5300 1500 60  0000 C CNN
+	1    5300 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D11
+U 1 1 5EF01953
+P 6600 1650
+F 0 "D11" H 6472 1600 60  0000 R CNN
+F 1 "D" V 6750 1600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 6600 1650 60  0001 C CNN
+F 3 "" H 6600 1650 60  0000 C CNN
+	1    6600 1650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW11
+U 1 1 5EF0195D
+P 6300 1500
+F 0 "SW11" H 6300 1755 50  0000 C CNN
+F 1 "SW_PUSH" H 6300 1664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6300 1500 60  0001 C CNN
+F 3 "" H 6300 1500 60  0000 C CNN
+	1    6300 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D16
+U 1 1 5EF01967
+P 7600 1650
+F 0 "D16" H 7472 1600 60  0000 R CNN
+F 1 "D" V 7750 1600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 7600 1650 60  0001 C CNN
+F 3 "" H 7600 1650 60  0000 C CNN
+	1    7600 1650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW16
+U 1 1 5EF01971
+P 7300 1500
+F 0 "SW16" H 7300 1755 50  0000 C CNN
+F 1 "SW_PUSH" H 7300 1664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7300 1500 60  0001 C CNN
+F 3 "" H 7300 1500 60  0000 C CNN
+	1    7300 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D21
+U 1 1 5EF053E3
+P 8600 1650
+F 0 "D21" H 8472 1600 60  0000 R CNN
+F 1 "D" V 8750 1600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 8600 1650 60  0001 C CNN
+F 3 "" H 8600 1650 60  0000 C CNN
+	1    8600 1650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW21
+U 1 1 5EF053ED
+P 8300 1500
+F 0 "SW21" H 8300 1755 50  0000 C CNN
+F 1 "SW_PUSH" H 8300 1664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8300 1500 60  0001 C CNN
+F 3 "" H 8300 1500 60  0000 C CNN
+	1    8300 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D26
+U 1 1 5EF053F7
+P 9600 1650
+F 0 "D26" H 9472 1600 60  0000 R CNN
+F 1 "D" V 9750 1600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 9600 1650 60  0001 C CNN
+F 3 "" H 9600 1650 60  0000 C CNN
+	1    9600 1650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW26
+U 1 1 5EF05401
+P 9300 1500
+F 0 "SW26" H 9300 1755 50  0000 C CNN
+F 1 "SW_PUSH" H 9300 1664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9300 1500 60  0001 C CNN
+F 3 "" H 9300 1500 60  0000 C CNN
+	1    9300 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D31
+U 1 1 5EF0540B
+P 10600 1650
+F 0 "D31" H 10472 1600 60  0000 R CNN
+F 1 "D" V 10750 1600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 10600 1650 60  0001 C CNN
+F 3 "" H 10600 1650 60  0000 C CNN
+	1    10600 1650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW31
+U 1 1 5EF05415
+P 10300 1500
+F 0 "SW31" H 10300 1755 50  0000 C CNN
+F 1 "SW_PUSH" H 10300 1664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10300 1500 60  0001 C CNN
+F 3 "" H 10300 1500 60  0000 C CNN
+	1    10300 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D2
+U 1 1 5EEC10DB
+P 4600 2150
+F 0 "D2" H 4472 2100 60  0000 R CNN
+F 1 "D" V 4750 2100 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4600 2150 60  0001 C CNN
+F 3 "" H 4600 2150 60  0000 C CNN
+	1    4600 2150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW2
+U 1 1 5EEC10E5
+P 4300 2000
+F 0 "SW2" H 4300 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 4300 2164 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4300 2000 60  0001 C CNN
+F 3 "" H 4300 2000 60  0000 C CNN
+	1    4300 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D7
+U 1 1 5EEC10EF
+P 5600 2150
+F 0 "D7" H 5472 2100 60  0000 R CNN
+F 1 "D" V 5750 2100 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 5600 2150 60  0001 C CNN
+F 3 "" H 5600 2150 60  0000 C CNN
+	1    5600 2150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW7
+U 1 1 5EEC10F9
+P 5300 2000
+F 0 "SW7" H 5300 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 5300 2164 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5300 2000 60  0001 C CNN
+F 3 "" H 5300 2000 60  0000 C CNN
+	1    5300 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D12
+U 1 1 5EEC1103
+P 6600 2150
+F 0 "D12" H 6472 2100 60  0000 R CNN
+F 1 "D" V 6750 2100 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 6600 2150 60  0001 C CNN
+F 3 "" H 6600 2150 60  0000 C CNN
+	1    6600 2150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW12
+U 1 1 5EEC110D
+P 6300 2000
+F 0 "SW12" H 6300 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 6300 2164 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6300 2000 60  0001 C CNN
+F 3 "" H 6300 2000 60  0000 C CNN
+	1    6300 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D17
+U 1 1 5EEC1117
+P 7600 2150
+F 0 "D17" H 7472 2100 60  0000 R CNN
+F 1 "D" V 7750 2100 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 7600 2150 60  0001 C CNN
+F 3 "" H 7600 2150 60  0000 C CNN
+	1    7600 2150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW17
+U 1 1 5EEC1121
+P 7300 2000
+F 0 "SW17" H 7300 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 7300 2164 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7300 2000 60  0001 C CNN
+F 3 "" H 7300 2000 60  0000 C CNN
+	1    7300 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D22
+U 1 1 5EEC112B
+P 8600 2150
+F 0 "D22" H 8472 2100 60  0000 R CNN
+F 1 "D" V 8750 2100 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 8600 2150 60  0001 C CNN
+F 3 "" H 8600 2150 60  0000 C CNN
+	1    8600 2150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW22
+U 1 1 5EEC1135
+P 8300 2000
+F 0 "SW22" H 8300 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 8300 2164 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8300 2000 60  0001 C CNN
+F 3 "" H 8300 2000 60  0000 C CNN
+	1    8300 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D27
+U 1 1 5EEC113F
+P 9600 2150
+F 0 "D27" H 9472 2100 60  0000 R CNN
+F 1 "D" V 9750 2100 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 9600 2150 60  0001 C CNN
+F 3 "" H 9600 2150 60  0000 C CNN
+	1    9600 2150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW27
+U 1 1 5EEC1149
+P 9300 2000
+F 0 "SW27" H 9300 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 9300 2164 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9300 2000 60  0001 C CNN
+F 3 "" H 9300 2000 60  0000 C CNN
+	1    9300 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D32
+U 1 1 5EEC1153
+P 10600 2150
+F 0 "D32" H 10472 2100 60  0000 R CNN
+F 1 "D" V 10750 2100 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 10600 2150 60  0001 C CNN
+F 3 "" H 10600 2150 60  0000 C CNN
+	1    10600 2150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW32
+U 1 1 5EEC115D
+P 10300 2000
+F 0 "SW32" H 10300 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 10300 2164 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10300 2000 60  0001 C CNN
+F 3 "" H 10300 2000 60  0000 C CNN
+	1    10300 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW3
+U 1 1 5EECCF2D
+P 4300 2500
+F 0 "SW3" H 4300 2755 50  0000 C CNN
+F 1 "SW_PUSH" H 4300 2664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4300 2500 60  0001 C CNN
+F 3 "" H 4300 2500 60  0000 C CNN
+	1    4300 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D8
+U 1 1 5EECCF37
+P 5600 2650
+F 0 "D8" H 5472 2600 60  0000 R CNN
+F 1 "D" V 5750 2600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 5600 2650 60  0001 C CNN
+F 3 "" H 5600 2650 60  0000 C CNN
+	1    5600 2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW8
+U 1 1 5EECCF41
+P 5300 2500
+F 0 "SW8" H 5300 2755 50  0000 C CNN
+F 1 "SW_PUSH" H 5300 2664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5300 2500 60  0001 C CNN
+F 3 "" H 5300 2500 60  0000 C CNN
+	1    5300 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D13
+U 1 1 5EECCF4B
+P 6600 2650
+F 0 "D13" H 6472 2600 60  0000 R CNN
+F 1 "D" V 6750 2600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 6600 2650 60  0001 C CNN
+F 3 "" H 6600 2650 60  0000 C CNN
+	1    6600 2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW13
+U 1 1 5EECCF55
+P 6300 2500
+F 0 "SW13" H 6300 2755 50  0000 C CNN
+F 1 "SW_PUSH" H 6300 2664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6300 2500 60  0001 C CNN
+F 3 "" H 6300 2500 60  0000 C CNN
+	1    6300 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D18
+U 1 1 5EECCF5F
+P 7600 2650
+F 0 "D18" H 7472 2600 60  0000 R CNN
+F 1 "D" V 7750 2600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 7600 2650 60  0001 C CNN
+F 3 "" H 7600 2650 60  0000 C CNN
+	1    7600 2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW18
+U 1 1 5EECCF69
+P 7300 2500
+F 0 "SW18" H 7300 2755 50  0000 C CNN
+F 1 "SW_PUSH" H 7300 2664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7300 2500 60  0001 C CNN
+F 3 "" H 7300 2500 60  0000 C CNN
+	1    7300 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D23
+U 1 1 5EECCF73
+P 8600 2650
+F 0 "D23" H 8472 2600 60  0000 R CNN
+F 1 "D" V 8750 2600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 8600 2650 60  0001 C CNN
+F 3 "" H 8600 2650 60  0000 C CNN
+	1    8600 2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW23
+U 1 1 5EECCF7D
+P 8300 2500
+F 0 "SW23" H 8300 2755 50  0000 C CNN
+F 1 "SW_PUSH" H 8300 2664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8300 2500 60  0001 C CNN
+F 3 "" H 8300 2500 60  0000 C CNN
+	1    8300 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D28
+U 1 1 5EECCF87
+P 9600 2650
+F 0 "D28" H 9472 2600 60  0000 R CNN
+F 1 "D" V 9750 2600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 9600 2650 60  0001 C CNN
+F 3 "" H 9600 2650 60  0000 C CNN
+	1    9600 2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW28
+U 1 1 5EECCF91
+P 9300 2500
+F 0 "SW28" H 9300 2755 50  0000 C CNN
+F 1 "SW_PUSH" H 9300 2664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9300 2500 60  0001 C CNN
+F 3 "" H 9300 2500 60  0000 C CNN
+	1    9300 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D33
+U 1 1 5EECCF9B
+P 10600 2650
+F 0 "D33" H 10472 2600 60  0000 R CNN
+F 1 "D" V 10750 2600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 10600 2650 60  0001 C CNN
+F 3 "" H 10600 2650 60  0000 C CNN
+	1    10600 2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW33
+U 1 1 5EECCFA5
+P 10300 2500
+F 0 "SW33" H 10300 2755 50  0000 C CNN
+F 1 "SW_PUSH" H 10300 2664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10300 2500 60  0001 C CNN
+F 3 "" H 10300 2500 60  0000 C CNN
+	1    10300 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D4
+U 1 1 5EECCFAF
+P 4600 3150
+F 0 "D4" H 4472 3100 60  0000 R CNN
+F 1 "D" V 4750 3100 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4600 3150 60  0001 C CNN
+F 3 "" H 4600 3150 60  0000 C CNN
+	1    4600 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW4
+U 1 1 5EECCFB9
+P 4300 3000
+F 0 "SW4" H 4300 3255 50  0000 C CNN
+F 1 "SW_PUSH" H 4300 3164 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4300 3000 60  0001 C CNN
+F 3 "" H 4300 3000 60  0000 C CNN
+	1    4300 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D9
+U 1 1 5EECCFC3
+P 5600 3150
+F 0 "D9" H 5472 3100 60  0000 R CNN
+F 1 "D" V 5750 3100 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 5600 3150 60  0001 C CNN
+F 3 "" H 5600 3150 60  0000 C CNN
+	1    5600 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW9
+U 1 1 5EECCFCD
+P 5300 3000
+F 0 "SW9" H 5300 3255 50  0000 C CNN
+F 1 "SW_PUSH" H 5300 3164 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5300 3000 60  0001 C CNN
+F 3 "" H 5300 3000 60  0000 C CNN
+	1    5300 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D14
+U 1 1 5EECCFD7
+P 6600 3150
+F 0 "D14" H 6472 3100 60  0000 R CNN
+F 1 "D" V 6750 3100 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 6600 3150 60  0001 C CNN
+F 3 "" H 6600 3150 60  0000 C CNN
+	1    6600 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW14
+U 1 1 5EECCFE1
+P 6300 3000
+F 0 "SW14" H 6300 3255 50  0000 C CNN
+F 1 "SW_PUSH" H 6300 3164 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6300 3000 60  0001 C CNN
+F 3 "" H 6300 3000 60  0000 C CNN
+	1    6300 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D19
+U 1 1 5EECCFEB
+P 7600 3150
+F 0 "D19" H 7472 3100 60  0000 R CNN
+F 1 "D" V 7750 3100 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 7600 3150 60  0001 C CNN
+F 3 "" H 7600 3150 60  0000 C CNN
+	1    7600 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW19
+U 1 1 5EECCFF5
+P 7300 3000
+F 0 "SW19" H 7300 3255 50  0000 C CNN
+F 1 "SW_PUSH" H 7300 3164 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7300 3000 60  0001 C CNN
+F 3 "" H 7300 3000 60  0000 C CNN
+	1    7300 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D24
+U 1 1 5EECCFFF
+P 8600 3150
+F 0 "D24" H 8472 3100 60  0000 R CNN
+F 1 "D" V 8750 3100 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 8600 3150 60  0001 C CNN
+F 3 "" H 8600 3150 60  0000 C CNN
+	1    8600 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW24
+U 1 1 5EECD009
+P 8300 3000
+F 0 "SW24" H 8300 3255 50  0000 C CNN
+F 1 "SW_PUSH" H 8300 3164 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8300 3000 60  0001 C CNN
+F 3 "" H 8300 3000 60  0000 C CNN
+	1    8300 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D29
+U 1 1 5EECD013
+P 9600 3150
+F 0 "D29" H 9472 3100 60  0000 R CNN
+F 1 "D" V 9750 3100 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 9600 3150 60  0001 C CNN
+F 3 "" H 9600 3150 60  0000 C CNN
+	1    9600 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW29
+U 1 1 5EECD01D
+P 9300 3000
+F 0 "SW29" H 9300 3255 50  0000 C CNN
+F 1 "SW_PUSH" H 9300 3164 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9300 3000 60  0001 C CNN
+F 3 "" H 9300 3000 60  0000 C CNN
+	1    9300 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D34
+U 1 1 5EECD027
+P 10600 3150
+F 0 "D34" H 10472 3100 60  0000 R CNN
+F 1 "D" V 10750 3100 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 10600 3150 60  0001 C CNN
+F 3 "" H 10600 3150 60  0000 C CNN
+	1    10600 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW34
+U 1 1 5EECD031
+P 10300 3000
+F 0 "SW34" H 10300 3255 50  0000 C CNN
+F 1 "SW_PUSH" H 10300 3164 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10300 3000 60  0001 C CNN
+F 3 "" H 10300 3000 60  0000 C CNN
+	1    10300 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D5
+U 1 1 5EEF4CBB
+P 4600 3650
+F 0 "D5" H 4472 3600 60  0000 R CNN
+F 1 "D" V 4750 3600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4600 3650 60  0001 C CNN
+F 3 "" H 4600 3650 60  0000 C CNN
+	1    4600 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW5
+U 1 1 5EEF4CC5
+P 4300 3500
+F 0 "SW5" H 4300 3755 50  0000 C CNN
+F 1 "SW_PUSH" H 4300 3664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4300 3500 60  0001 C CNN
+F 3 "" H 4300 3500 60  0000 C CNN
+	1    4300 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D10
+U 1 1 5EEF4CCF
+P 5600 3650
+F 0 "D10" H 5472 3600 60  0000 R CNN
+F 1 "D" V 5750 3600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 5600 3650 60  0001 C CNN
+F 3 "" H 5600 3650 60  0000 C CNN
+	1    5600 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW10
+U 1 1 5EEF4CD9
+P 5300 3500
+F 0 "SW10" H 5300 3755 50  0000 C CNN
+F 1 "SW_PUSH" H 5300 3664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5300 3500 60  0001 C CNN
+F 3 "" H 5300 3500 60  0000 C CNN
+	1    5300 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D15
+U 1 1 5EEF4CE3
+P 6600 3650
+F 0 "D15" H 6472 3600 60  0000 R CNN
+F 1 "D" V 6750 3600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 6600 3650 60  0001 C CNN
+F 3 "" H 6600 3650 60  0000 C CNN
+	1    6600 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW15
+U 1 1 5EEF4CED
+P 6300 3500
+F 0 "SW15" H 6300 3755 50  0000 C CNN
+F 1 "SW_PUSH" H 6300 3664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6300 3500 60  0001 C CNN
+F 3 "" H 6300 3500 60  0000 C CNN
+	1    6300 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D20
+U 1 1 5EEF4CF7
+P 7600 3650
+F 0 "D20" H 7472 3600 60  0000 R CNN
+F 1 "D" V 7750 3600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 7600 3650 60  0001 C CNN
+F 3 "" H 7600 3650 60  0000 C CNN
+	1    7600 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW20
+U 1 1 5EEF4D01
+P 7300 3500
+F 0 "SW20" H 7300 3755 50  0000 C CNN
+F 1 "SW_PUSH" H 7300 3664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7300 3500 60  0001 C CNN
+F 3 "" H 7300 3500 60  0000 C CNN
+	1    7300 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D25
+U 1 1 5EEF4D0B
+P 8600 3650
+F 0 "D25" H 8472 3600 60  0000 R CNN
+F 1 "D" V 8750 3600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 8600 3650 60  0001 C CNN
+F 3 "" H 8600 3650 60  0000 C CNN
+	1    8600 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW25
+U 1 1 5EEF4D15
+P 8300 3500
+F 0 "SW25" H 8300 3755 50  0000 C CNN
+F 1 "SW_PUSH" H 8300 3664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8300 3500 60  0001 C CNN
+F 3 "" H 8300 3500 60  0000 C CNN
+	1    8300 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D30
+U 1 1 5EEF4D1F
+P 9600 3650
+F 0 "D30" H 9472 3600 60  0000 R CNN
+F 1 "D" V 9750 3600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 9600 3650 60  0001 C CNN
+F 3 "" H 9600 3650 60  0000 C CNN
+	1    9600 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW30
+U 1 1 5EEF4D29
+P 9300 3500
+F 0 "SW30" H 9300 3755 50  0000 C CNN
+F 1 "SW_PUSH" H 9300 3664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9300 3500 60  0001 C CNN
+F 3 "" H 9300 3500 60  0000 C CNN
+	1    9300 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D35
+U 1 1 5EEF4D33
+P 10600 3650
+F 0 "D35" H 10472 3600 60  0000 R CNN
+F 1 "D" V 10750 3600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 10600 3650 60  0001 C CNN
+F 3 "" H 10600 3650 60  0000 C CNN
+	1    10600 3650
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW35
+U 1 1 5EEF4D3D
+P 10300 3500
+F 0 "SW35" H 10300 3755 50  0000 C CNN
+F 1 "SW_PUSH" H 10300 3664 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10300 3500 60  0001 C CNN
+F 3 "" H 10300 3500 60  0000 C CNN
+	1    10300 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L promicro:ProMicro U1
+U 1 1 5EF0CDDE
+P 2015 2700
+F 0 "U1" H 2015 3737 60  0000 C CNN
+F 1 "ProMicro" H 2015 3631 60  0000 C CNN
+F 2 "promicro:ProMicro" H 2115 1650 60  0001 C CNN
+F 3 "" H 2115 1650 60  0000 C CNN
+	1    2015 2700
+	1    0    0    -1  
+$EndComp
+Text GLabel 1315 2050 0    50   Input ~ 0
+data
+Text GLabel 1315 2550 0    50   Input ~ 0
+row0
+Text GLabel 1315 2650 0    50   Input ~ 0
+row1
+Text GLabel 1315 2750 0    50   Input ~ 0
+row2
+Text GLabel 1315 2850 0    50   Input ~ 0
+row3
+Text GLabel 1315 2950 0    50   Input ~ 0
+row4
+Text GLabel 2715 2350 2    50   Input ~ 0
+col0
+Text GLabel 2715 2450 2    50   Input ~ 0
+col1
+Text GLabel 2715 2550 2    50   Input ~ 0
+col2
+Text GLabel 2715 2650 2    50   Input ~ 0
+col3
+Text GLabel 2715 2750 2    50   Input ~ 0
+col4
+Text GLabel 2715 2850 2    50   Input ~ 0
+col5
+Text GLabel 2715 2950 2    50   Input ~ 0
+col6
+Text GLabel 4000 995  1    50   Input ~ 0
+col0
+Wire Wire Line
+	4000 995  4000 1500
+Connection ~ 4000 1500
+Wire Wire Line
+	4000 1500 4000 2000
+Connection ~ 4000 2000
+Wire Wire Line
+	4000 2000 4000 2500
+Connection ~ 4000 2500
+Wire Wire Line
+	4000 2500 4000 3000
+Connection ~ 4000 3000
+Wire Wire Line
+	4000 3000 4000 3500
+Text GLabel 5000 1000 1    50   Input ~ 0
+col1
+Text GLabel 6000 1000 1    50   Input ~ 0
+col2
+Text GLabel 7000 1000 1    50   Input ~ 0
+col3
+Text GLabel 8000 1000 1    50   Input ~ 0
+col4
+Text GLabel 9000 1000 1    50   Input ~ 0
+col5
+Text GLabel 10000 1000 1    50   Input ~ 0
+col6
+Connection ~ 5000 1500
+Wire Wire Line
+	5000 1500 5000 2000
+Connection ~ 5000 2000
+Wire Wire Line
+	5000 2000 5000 2500
+Connection ~ 5000 2500
+Wire Wire Line
+	5000 2500 5000 3000
+Connection ~ 5000 3000
+Wire Wire Line
+	5000 3000 5000 3500
+Wire Wire Line
+	6000 1000 6000 1500
+Connection ~ 6000 1500
+Wire Wire Line
+	6000 1500 6000 2000
+Connection ~ 6000 2000
+Wire Wire Line
+	6000 2000 6000 2500
+Connection ~ 6000 2500
+Wire Wire Line
+	6000 2500 6000 3000
+Connection ~ 6000 3000
+Wire Wire Line
+	6000 3000 6000 3500
+Wire Wire Line
+	5000 1000 5000 1500
+Wire Wire Line
+	7000 1000 7000 1500
+Connection ~ 7000 1500
+Wire Wire Line
+	7000 1500 7000 2000
+Connection ~ 7000 2000
+Wire Wire Line
+	7000 2000 7000 2500
+Connection ~ 7000 2500
+Wire Wire Line
+	7000 2500 7000 3000
+Connection ~ 7000 3000
+Wire Wire Line
+	7000 3000 7000 3500
+Wire Wire Line
+	8000 1000 8000 1500
+Connection ~ 8000 1500
+Wire Wire Line
+	8000 1500 8000 2000
+Connection ~ 8000 2000
+Wire Wire Line
+	8000 2000 8000 2500
+Connection ~ 8000 2500
+Wire Wire Line
+	8000 2500 8000 3000
+Connection ~ 8000 3000
+Wire Wire Line
+	8000 3000 8000 3500
+Wire Wire Line
+	9000 3500 9000 3000
+Connection ~ 9000 1500
+Wire Wire Line
+	9000 1500 9000 1000
+Connection ~ 9000 2000
+Wire Wire Line
+	9000 2000 9000 1500
+Connection ~ 9000 2500
+Wire Wire Line
+	9000 2500 9000 2000
+Connection ~ 9000 3000
+Wire Wire Line
+	9000 3000 9000 2500
+Wire Wire Line
+	10000 1000 10000 1500
+Connection ~ 10000 1500
+Wire Wire Line
+	10000 1500 10000 2000
+Connection ~ 10000 2000
+Wire Wire Line
+	10000 2000 10000 2500
+Connection ~ 10000 2500
+Wire Wire Line
+	10000 2500 10000 3000
+Connection ~ 10000 3000
+Wire Wire Line
+	10000 3000 10000 3500
+Text GLabel 3650 1700 0    50   Input ~ 0
+row0
+Text GLabel 3650 2200 0    50   Input ~ 0
+row1
+Text GLabel 3650 2700 0    50   Input ~ 0
+row2
+Text GLabel 3650 3200 0    50   Input ~ 0
+row3
+Text GLabel 3650 3700 0    50   Input ~ 0
+row4
+Wire Wire Line
+	3650 1700 4600 1700
+Connection ~ 4600 1700
+Wire Wire Line
+	4600 1700 5600 1700
+Connection ~ 5600 1700
+Wire Wire Line
+	5600 1700 6600 1700
+Connection ~ 6600 1700
+Wire Wire Line
+	6600 1700 7600 1700
+Connection ~ 7600 1700
+Wire Wire Line
+	7600 1700 8600 1700
+Connection ~ 8600 1700
+Wire Wire Line
+	8600 1700 9600 1700
+Connection ~ 9600 1700
+Wire Wire Line
+	9600 1700 10600 1700
+Wire Wire Line
+	10600 2200 9600 2200
+Connection ~ 4600 2200
+Wire Wire Line
+	4600 2200 3650 2200
+Connection ~ 5600 2200
+Wire Wire Line
+	5600 2200 4600 2200
+Connection ~ 6600 2200
+Wire Wire Line
+	6600 2200 5600 2200
+Connection ~ 7600 2200
+Wire Wire Line
+	7600 2200 6600 2200
+Connection ~ 8600 2200
+Wire Wire Line
+	8600 2200 7600 2200
+Connection ~ 9600 2200
+Wire Wire Line
+	9600 2200 8600 2200
+Wire Wire Line
+	3650 2700 4600 2700
+Connection ~ 4600 2700
+Wire Wire Line
+	4600 2700 5600 2700
+Connection ~ 5600 2700
+Wire Wire Line
+	5600 2700 6600 2700
+Connection ~ 6600 2700
+Wire Wire Line
+	6600 2700 7600 2700
+Connection ~ 7600 2700
+Wire Wire Line
+	7600 2700 8600 2700
+Connection ~ 8600 2700
+Wire Wire Line
+	8600 2700 9600 2700
+Connection ~ 9600 2700
+Wire Wire Line
+	9600 2700 10600 2700
+Wire Wire Line
+	10600 3200 9600 3200
+Connection ~ 4600 3200
+Wire Wire Line
+	4600 3200 3650 3200
+Connection ~ 5600 3200
+Wire Wire Line
+	5600 3200 4600 3200
+Connection ~ 6600 3200
+Wire Wire Line
+	6600 3200 5600 3200
+Connection ~ 7600 3200
+Wire Wire Line
+	7600 3200 6600 3200
+Connection ~ 8600 3200
+Wire Wire Line
+	8600 3200 7600 3200
+Connection ~ 9600 3200
+Wire Wire Line
+	9600 3200 8600 3200
+Wire Wire Line
+	3650 3700 4600 3700
+Connection ~ 4600 3700
+Wire Wire Line
+	4600 3700 5600 3700
+Connection ~ 5600 3700
+Wire Wire Line
+	5600 3700 6600 3700
+Connection ~ 6600 3700
+Wire Wire Line
+	6600 3700 7600 3700
+Connection ~ 7600 3700
+Wire Wire Line
+	7600 3700 8600 3700
+Connection ~ 8600 3700
+Wire Wire Line
+	8600 3700 9600 3700
+Connection ~ 9600 3700
+Wire Wire Line
+	9600 3700 10600 3700
+Text GLabel 2715 2150 2    50   Input ~ 0
+reset
+NoConn ~ 1315 3050
+NoConn ~ 2715 3050
+NoConn ~ 2715 1950
+NoConn ~ 1315 1950
+Wire Wire Line
+	1315 2150 795  2150
+Wire Wire Line
+	795  2150 795  2250
+Wire Wire Line
+	1315 2250 795  2250
+Connection ~ 795  2250
+Wire Wire Line
+	795  2250 795  2410
+Wire Wire Line
+	2715 2050 3095 2050
+Wire Wire Line
+	2715 2250 3000 2250
+Wire Wire Line
+	3000 2250 3000 1750
+$Comp
+L keyboard_parts:KEYSW K1
+U 1 1 5EF54E9D
+P 1935 4590
+F 0 "K1" H 1935 4823 60  0000 C CNN
+F 1 "KEYSW" H 1935 4490 60  0001 C CNN
+F 2 "keyboard_parts:SW_TACT_TH_HORIZ_LOW" H 1935 4590 60  0001 C CNN
+F 3 "" H 1935 4590 60  0000 C CNN
+	1    1935 4590
+	1    0    0    -1  
+$EndComp
+Text GLabel 1635 4590 0    50   Input ~ 0
+reset
+Wire Wire Line
+	1740 3880 2475 3880
+Wire Wire Line
+	1740 4080 2550 4080
+Text GLabel 2550 4080 2    50   Input ~ 0
+data
+$Comp
+L keyboard_parts:D D3
+U 1 1 5EECCF23
+P 4600 2650
+F 0 "D3" H 4472 2600 60  0000 R CNN
+F 1 "D" V 4750 2600 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4600 2650 60  0001 C CNN
+F 3 "" H 4600 2650 60  0000 C CNN
+	1    4600 2650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1740 3980 2175 3980
+$Comp
+L MJ-4PP-9:MJ-4PP-9 J1
+U 1 1 5EF8B4F7
+P 1190 3880
+F 0 "J1" H 1248 4255 50  0000 C CNN
+F 1 "MJ-4PP-9" H 1248 4164 50  0000 C CNN
+F 2 "MJ-4PP-9:MJ-4PP-9" H 590 3780 50  0001 C CNN
+F 3 "" H 590 3780 50  0001 C CNN
+	1    1190 3880
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1740 3730
+$Comp
+L power:GND #PWR01
+U 1 1 5EFD0B2F
+P 795 2410
+F 0 "#PWR01" H 795 2160 50  0001 C CNN
+F 1 "GND" H 800 2237 50  0000 C CNN
+F 2 "" H 795 2410 50  0001 C CNN
+F 3 "" H 795 2410 50  0001 C CNN
+	1    795  2410
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 5EFD9BD8
+P 2350 5520
+F 0 "#PWR0101" H 2350 5270 50  0001 C CNN
+F 1 "GND" H 2355 5347 50  0000 C CNN
+F 2 "" H 2350 5520 50  0001 C CNN
+F 3 "" H 2350 5520 50  0001 C CNN
+	1    2350 5520
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 5EFDC487
+P 2175 3980
+F 0 "#PWR0103" H 2175 3730 50  0001 C CNN
+F 1 "GND" H 2180 3807 50  0000 C CNN
+F 2 "" H 2175 3980 50  0001 C CNN
+F 3 "" H 2175 3980 50  0001 C CNN
+	1    2175 3980
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0105
+U 1 1 5EFE2D39
+P 2475 3880
+F 0 "#PWR0105" H 2475 3730 50  0001 C CNN
+F 1 "VCC" H 2492 4053 50  0000 C CNN
+F 2 "" H 2475 3880 50  0001 C CNN
+F 3 "" H 2475 3880 50  0001 C CNN
+	1    2475 3880
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0106
+U 1 1 5EFE3B72
+P 2060 5515
+F 0 "#PWR0106" H 2060 5365 50  0001 C CNN
+F 1 "VCC" H 2077 5688 50  0000 C CNN
+F 2 "" H 2060 5515 50  0001 C CNN
+F 3 "" H 2060 5515 50  0001 C CNN
+	1    2060 5515
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0107
+U 1 1 5EFE4E99
+P 3000 1750
+F 0 "#PWR0107" H 3000 1600 50  0001 C CNN
+F 1 "VCC" H 3017 1923 50  0000 C CNN
+F 2 "" H 3000 1750 50  0001 C CNN
+F 3 "" H 3000 1750 50  0001 C CNN
+	1    3000 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5EFE63B6
+P 2350 5520
+F 0 "#FLG0101" H 2350 5595 50  0001 C CNN
+F 1 "PWR_FLAG" H 2350 5693 50  0000 C CNN
+F 2 "" H 2350 5520 50  0001 C CNN
+F 3 "" H 2350 5520 50  0001 C CNN
+	1    2350 5520
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0102
+U 1 1 5EFE8F7A
+P 2060 5515
+F 0 "#FLG0102" H 2060 5590 50  0001 C CNN
+F 1 "PWR_FLAG" H 2060 5688 50  0000 C CNN
+F 2 "" H 2060 5515 50  0001 C CNN
+F 3 "" H 2060 5515 50  0001 C CNN
+	1    2060 5515
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 5EFED811
+P 3095 2050
+F 0 "#PWR0102" H 3095 1800 50  0001 C CNN
+F 1 "GND" H 3100 1877 50  0000 C CNN
+F 2 "" H 3095 2050 50  0001 C CNN
+F 3 "" H 3095 2050 50  0001 C CNN
+	1    3095 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 5EFF1A99
+P 2235 4590
+F 0 "#PWR0104" H 2235 4340 50  0001 C CNN
+F 1 "GND" H 2240 4417 50  0000 C CNN
+F 2 "" H 2235 4590 50  0001 C CNN
+F 3 "" H 2235 4590 50  0001 C CNN
+	1    2235 4590
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1315 2350
+NoConn ~ 1315 2450
+NoConn ~ -755 3135
+$EndSCHEMATC
