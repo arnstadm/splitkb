@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name stm32split-rescue)(type Legacy)(uri ${KIPRJMOD}/stm32split-rescue.lib)(options "")(descr ""))
+)
