@@ -1,6 +1,5 @@
 # katamaran
 
-split keyboard with hot swap sockets. 
+Split keyboard with f103
 
-![front](https://github.com/arnstadm/splitkb/blob/master/front.png?raw=true)
-![back](https://github.com/arnstadm/splitkb/blob/master/back.png?raw=true)
+Not prototyped, don't make this
